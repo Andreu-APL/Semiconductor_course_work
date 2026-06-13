@@ -6,6 +6,8 @@ Simple Verilog FSM that detects the bit sequence **11010** (with overlap).
 
 ![FSM Diagram](Photo/Diagram.jpg)
 ![GTKWAVE](Photo/GTKwave.png)
+![GTKrandom](Photo/GTKrandom.png)
+
 
 
 ## Files
