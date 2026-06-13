@@ -9,7 +9,3 @@ Simple Verilog FSM that detects the bit sequence **11010** (with overlap).
 ![GTKrandom](Photo/GTKrandom.png)
 
 
-
-## Files
-
-
